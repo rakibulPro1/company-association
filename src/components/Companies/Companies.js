@@ -14,7 +14,6 @@ const Companies = () => {
 
   const handleCartBtn = (company) => {
     setCart([...cart, company]);
-    console.log(company);
   };
 
   return (
