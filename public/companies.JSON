@@ -1,0 +1,124 @@
+[
+  {
+    "key": "B002RL8IYK",
+    "name": "Youngone Sports Shoes Industries",
+    "website": "https://www.youngonecorporation.com/",
+    "image": "https://www.youngonecorporation.com/uploads/_halfWidthRectangle/youngone-web-logo.jpg",
+    "type": "Company - Private",
+    "industry": "whole-sale",
+    "star": 3,
+    "deposit": 24000
+  },
+  {
+    "key": "B0035L8IYK",
+    "name": "S Alam Group",
+    "website": "https://www.s.alamgroupbd.com/",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/06/02/s_alam_group.jpg?itok=8QnFyYEV&timestamp=1591117323",
+    "type": "Company - Private",
+    "industry": "Food and Beverage Manufacturing",
+    "star": 4,
+    "deposit": 33500
+  },
+  {
+    "key": "B002RL68YK",
+    "name": "pacific jeans",
+    "website": "https://www.pacificjeans.com/",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaejPeAPH83ZBIpQ8f_ecVegfDJPMilMIYdtPzeTFOfADzZ46e85yRi0hhnSnPKNWBEY&usqp=CAU",
+    "type": "Company - Private",
+    "industry": "Customer Products Manufacturing",
+    "star": 3,
+    "deposit": 15300
+  },
+  {
+    "key": "B002598IYK",
+    "name": "Abul Kayer Group",
+    "website": "http://www.abulkhairgroup.com/",
+    "image": "https://www.businessinsiderbd.com/media/imgAll/2020October/en/Abul-khair-group-2103221401-2105020757-2106090749.jpg",
+    "type": "Company - Private",
+    "industry": "Logistics & Supply Chain",
+    "star": 3,
+    "deposit": 18500
+  },
+
+  {
+    "key": "B020RL8IJK",
+    "name": "Unilever",
+    "website": "https://www.unilever.com/",
+    "image": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/1754726_New%20Project%20(39).jpg",
+    "type": "Company - Private",
+    "industry": "Customer Products Manufacturing",
+    "star": 4,
+    "deposit": 12400
+  },
+
+  {
+    "key": "B002RL9UIK",
+    "name": "Liz Fashion Industry",
+    "website": "https://www.lizfashion.com/",
+    "image": "https://www.99corporates.com/CompanyLogoThumb/no-logo99.png",
+    "type": "Company - Private",
+    "industry": "whole-sale",
+    "star": 4,
+    "deposit": 36570
+  },
+  {
+    "key": "B004H6GIYK",
+    "name": "Kenpark Bangladesh Apparel",
+    "website": "https://panjiva.com/",
+    "image": "https://payload.cargocollective.com/1/2/71137/1652335/Ken-Park-Larry-Clark-Ed-Lachman-Gianni-Rossi-Revolver-T-Shirt-Illustration_640.jpg",
+    "type": "Company - Private",
+    "industry": "Consumer Products Manufacturing",
+    "star": 5,
+    "deposit": 68500
+  },
+  {
+    "key": "B992RL8TYK",
+    "name": "PRAN-RFL Center",
+    "website": "https://www.rflbd.com/",
+    "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/9008741_New%20Project%20(28).jpg",
+    "type": "Company - Private",
+    "industry": "Logistics & Supply Chain",
+    "star": 5,
+    "deposit": 88000
+  },
+  {
+    "key": "B002RL23HY",
+    "name": "Marcentil Bank",
+    "website": "https://www.mblbd.com/",
+    "image": "https://www.thefinancialexpress.com.bd/uploads/1568785534.jpg",
+    "type": "Bank - public",
+    "industry": "Consumer bank of Bangladesh",
+    "star": 3,
+    "deposit": 23006
+  },
+  {
+    "key": "B77TRL8IYK",
+    "name": "BSRM",
+    "website": "https://www.bsrm.com/",
+    "image": "https://www.assignmentpoint.com/wp-content/uploads/2017/11/BSRM-Steels-Limited.jpg",
+    "type": "company - public",
+    "industry": "Consulting industry",
+    "star": 5,
+    "deposit": 56090
+  },
+  {
+    "key": "B002R6YHTK",
+    "name": "Grameen Phone",
+    "website": "https://www.grameenphone.com/",
+    "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/6513645_5593189_New%20Project%20(2).jpg",
+    "type": "company - public",
+    "industry": "Teli-comuunications",
+    "star": 4,
+    "deposit": 45980
+  },
+  {
+    "key": "B002RLEFT6",
+    "name": "BKASH",
+    "website": "https://www.bkash.com/",
+    "image": "https://www.logo.wine/a/logo/BKash/BKash-bKash2-Logo.wine.svg",
+    "type": "company - public",
+    "industry": "Teli-comuunications",
+    "star": 5,
+    "deposit": 765600
+  }
+]
